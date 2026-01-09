@@ -19,10 +19,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
-  background-color: #555555;
-  color: white;
-}
 
 img{
 	width:40%;
