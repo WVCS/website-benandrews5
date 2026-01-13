@@ -23,3 +23,8 @@ li a {
 img{
 	width:40%;
 }
+img:hover {
+	border: dotted 5px #3AFF00;
+	width: 200px;
+	border-radius: 70%;
+}
