@@ -28,3 +28,13 @@ img:hover {
 	width: 200px;
 	border-radius: 70%;
 }
+h2 {
+font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+text-decoration-line: underline;
+text-decoration-style: wavy;
+text-decoration-color: deepskyblue;
+word-spacing: normal;
+letter-spacing: normal;
+text-shadow: 1px 1px blue;
+font-size: 150%
+}
